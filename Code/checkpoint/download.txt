@@ -1,0 +1,2 @@
+First download both checkpoints of landmark detection network and checkpoints of diffusion model from https://drive.google.com/drive/folders/1o9tVJ6p8Jbad3gu0ZUkX0tE5dp7Vkh9g?usp=sharing.
+Then put all five downloaded checkpoints into `./Code/checkpoint`.
