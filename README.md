@@ -10,7 +10,7 @@ This is the official repository of our paper **CLIK-Diffusion: Clinical Knowledg
 
 
 ### Updates
-- **[2025-08-05]** *Version of Record* of our paper is available online, see [Paper](https://authors.elsevier.com/a/1lYg74rfPmLfAq)!
+- **[2025-08-05]** *Version of Record* of our paper is available online, see [Paper](https://doi.org/10.1016/j.media.2025.103746)!
 - **[2025-07-25]** Dataset released!
 - **[2025-07-25]** Code released!
 - **[2025-07-22]** Our paper is accepted by *MedIA 2025*!
